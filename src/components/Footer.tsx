@@ -29,7 +29,7 @@ export default function Footer({
                 src="/appicon.svg"
                 width={32}
                 height={32}
-                alt="jsonhome.com"
+                alt="jsonfileformat.com"
               />
             </a>
             <p className="text-sm text-white">

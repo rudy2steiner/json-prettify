@@ -131,9 +131,9 @@ const PageComponent = ({
            description={jsonEditorText.description}
            keywords={jsonEditorText.keywords}
            locale={locale}
-           page={"/json-formatter"}
+           page={"/json-file-format"}
          />
-       <Header locale={locale} page={"json-formatter"} indexLanguageText={indexLanguageText}/>
+       <Header locale={locale} page={"json-file-format"} indexLanguageText={indexLanguageText}/>
        <p className="text-black text-center text-xl mb-3 mt-10">{jsonEditorText.title}</p>
        <div className="mx-auto w-[80%] h-[100%] border-blue-200 border-2 mb-2 mt-3">
          <Stack styles={stackStyles}>
