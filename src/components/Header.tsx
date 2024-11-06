@@ -15,7 +15,7 @@ import GeneratingModal from "~/components/GeneratingModal";
 
 const navigation = {
   topMenu: [
-    {name: 'JSON File Formatter', href: '/json-file-format'}
+    {name: 'JSON Prettifier', href: '/json-prettifier'}
   ],
   social: [
   ]
